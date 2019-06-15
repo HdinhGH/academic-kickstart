@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. Candidate </br> University of Utah </br> Applied Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,22 @@ organizations:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
-# - 
+#
 
 education:
-  courses:
-  - course: Ph.D. in Applied Mathematics
-    institution: University of Utah
-    year: 2020
-  - course: M.S. Statistics
-    institution: University of Utah
-    year: 2019
-  - course: B.S. in Mathematics
-    institution: University of Houston
-    year: 2014
+  # courses:
+  # - course: Ph.D. in Applied Mathematics
+  #   institution: University of Utah
+  #   year: 2020
+  # - course: M.S. Statistics
+  #   institution: University of Utah
+  #   year: 2019
+  # - course: B.S. in Mathematics
+  #   institution: University of Houston
+  #   year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -68,6 +68,19 @@ social:
 # - Visitors
 ---
 
-Email: hdinh@math.utah.edu </br>
-Phone: 281 248 3492
+Research Interests: 
 
+<div class="row">
+  <div class="column">
+    <ul style="list-style-type:disc;">
+      <li>climate modeling</li>
+      <li>statistics</li>
+    </ul>
+  </div>
+  <div class="column"> 
+    <ul style="list-style-type:disc;">
+      <li>numerical methods for PDEs</li>
+      <li>mathematical modeling</li>
+    </ul>
+  </div>
+</div>

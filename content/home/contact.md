@@ -1,20 +1,37 @@
 +++
-# Contact widget.
-widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 4  # Order that this section will appear.
 
 title = "Contact"
 subtitle = ""
 
-# Automatically link email and phone?
-autolink = true
+# Showcase personal skills or business features.
+# 
+# Add/remove as many `[[feature]]` blocks below as you like.
+# 
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 2
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
+
+
 +++
 
+Huy Dinh </br>
+University of Utah </br>
+Department of Mathematics, JWB 121 </br> 
+155 S 1400 E RM 233 </br>
+Salt Lake City, UT 84112-0090 </br>
+
+email: hdinh@math.utah.edu </br>
+office: JWB 121
