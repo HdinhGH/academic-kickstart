@@ -69,18 +69,9 @@ social:
 ---
 
 Research Interests: 
-
-<div class="row">
-  <div class="column">
-    <ul style="list-style-type:disc;">
-      <li>climate modeling</li>
-      <li>statistics</li>
-    </ul>
-  </div>
-  <div class="column"> 
-    <ul style="list-style-type:disc;">
-      <li>numerical methods for PDEs</li>
-      <li>mathematical modeling</li>
-    </ul>
-  </div>
-</div>
+<ul style="list-style-type:disc;">
+  <li>climate modeling</li>
+  <li>statistics</li>
+  <li>numerical methods for PDEs</li>
+  <li>mathematical modeling</li>
+</ul>
