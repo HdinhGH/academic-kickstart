@@ -24,10 +24,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
+# <li> H. Dinh, K. M. Golden, C. Strong, and E. Cherkaev., anomalous diffusion in sea ice, IN PREPRATION.
 
 +++
 
 <ul>
-<li> H. Dinh, K. M. Golden, C. Strong, and E. Cherkaev., Ice floe model of anomalous diffusion of sea ice, IN PREPRATION.
 <li> H. Dinh, H. Antil, Y. Chen, E. Cherkaev, and A. Narayan., Model reduction for fractional elliptic problems using Kato's formula, SUBMITTED. (2019) <i><a href="https://arxiv.org/abs/1904.09332">arXiv preprint arXiv:1904.09332</a></i>.
 </ul>
