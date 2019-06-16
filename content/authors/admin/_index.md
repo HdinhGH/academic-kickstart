@@ -74,4 +74,5 @@ Research Interests:
   <li>statistics</li>
   <li>numerical methods for PDEs</li>
   <li>mathematical modeling</li>
+  <li>nonlocal operators</li>
 </ul>
