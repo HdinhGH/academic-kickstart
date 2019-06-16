@@ -76,3 +76,5 @@ Research Interests:
   <li>mathematical modeling</li>
   <li>nonlocal operators</li>
 </ul>
+
+# {{% staticref "files/HDinhCV.pdf" %}}curriculum vitae{{% /staticref %}}

@@ -39,7 +39,7 @@ subtitle = ""
   <li>Spring 2017: Math 1060, Trigonometry</li>
   <li>Fall 2016: Math 1090, Business Algebra</li>
   <li>Spring 2016: Math 1090, Business Algebra</li>
-  <li>Fall 2015: Math 1090, Business Algebra</li>
+  <li>Fall 2015: Math 1090, Calculus III (TA, one guest lecture)</li>
   <li>Spring 2015: Math 1210, Calculus I (Lab Section)</li>
   <li>Fall 2014: Math 2250, Differential Equations and Linear Algebra (Lab Section)</li>
 </ul>
