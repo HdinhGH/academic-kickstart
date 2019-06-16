@@ -28,7 +28,6 @@ subtitle = ""
 +++
 
 Huy Dinh </br>
-University of Utah </br>
 Department of Mathematics </br> 
 155 S 1400 E RM 233 </br>
 Salt Lake City, UT 84112-0090 </br>
