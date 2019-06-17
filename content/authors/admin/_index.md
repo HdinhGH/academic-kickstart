@@ -77,4 +77,4 @@ Research Interests:
   <li>nonlocal operators</li>
 </ul>
 
-# {{% staticref "files/HDinhCV.pdf" %}}curriculum vitae{{% /staticref %}}
+# {{% staticref "files/HDinhCV.pdf" %}}<u>curriculum vitae</u>{{% /staticref %}}
