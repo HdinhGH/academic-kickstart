@@ -33,13 +33,16 @@ subtitle = ""
   <li>Spring 2019: Math 1070, Introduction to Statistical Inference</li>
   <li>Fall 2018: Math 1070, Introduction to Statistical Inference</li>
   <li>Summer 2018: Math 3160, Applied Complex Variables</li>
-  <li>Spring 2018: Math 2250, Differential Equations and Linear Algebra (Lab Section)</li>
+  <li>Spring 2018: Math 2210 Calculus III (two invited lectures)</li>
+  <li>Spring 2018: Math 2250, Differential Equations and Linear Algebra (lab section)</li>
+  <li>Fall 2017: Math 5750/6880, Mathematics and Climate (one invited lecture)</li>
   <li>Fall 2017: Math 1090, Business Algebra</li>
   <li>Summer 2017: Math 3160, Applied Complex Variables</li>
+  <li>Spring 2017: Math 1060, Trigonometry (one invited lecture)</li>
   <li>Spring 2017: Math 1060, Trigonometry</li>
   <li>Fall 2016: Math 1090, Business Algebra</li>
   <li>Spring 2016: Math 1090, Business Algebra</li>
-  <li>Fall 2015: Math 1090, Calculus III (TA, one guest lecture)</li>
-  <li>Spring 2015: Math 1210, Calculus I (Lab Section)</li>
+  <li>Fall 2015: Math 1090, Calculus III (TA, one invited lecture)</li>
+  <li>Spring 2015: Math 1210, Calculus I (lab section)</li>
   <li>Fall 2014: Math 2250, Differential Equations and Linear Algebra (Lab Section)</li>
 </ul>
