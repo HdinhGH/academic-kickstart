@@ -27,23 +27,15 @@ subtitle = ""
 
 +++
 
-<ul style="list-style-type:disc;">
-  <li>Fall 2019: Math 3070, Applied Statistics I</li>
-  <li>Summer 2019: Math 3150, Partial Differential Equation for Engineers</li>
-  <li>Spring 2019: Math 1070, Introduction to Statistical Inference</li>
-  <li>Fall 2018: Math 1070, Introduction to Statistical Inference</li>
-  <li>Summer 2018: Math 3160, Applied Complex Variables</li>
-  <li>Spring 2018: Math 2210 Calculus III (two invited lectures)</li>
-  <li>Spring 2018: Math 2250, Differential Equations and Linear Algebra (lab section)</li>
-  <li>Fall 2017: Math 5750/6880, Mathematics and Climate (one invited lecture)</li>
-  <li>Fall 2017: Math 1090, Business Algebra</li>
-  <li>Summer 2017: Math 3160, Applied Complex Variables</li>
-  <li>Spring 2017: Math 1060, Trigonometry (one invited lecture)</li>
-  <li>Spring 2017: Math 1060, Trigonometry</li>
-  <li>Fall 2016: Math 1090, Business Algebra</li>
-  <li>Spring 2016: Math 1090, Business Algebra</li>
-  <li>Fall 2015: Math 2210, Calculus III (one invited lecture)</li>
-  <li>Fall 2015: Math 2210, Calculus III (TA)</li>
-  <li>Spring 2015: Math 1210, Calculus I (lab section)</li>
-  <li>Fall 2014: Math 2250, Differential Equations and Linear Algebra (lab Section)</li>
+<ul style="list-style-type:disc;" >
+  <li>Fall 2019: Math 3070, Applied Statistics I </li>
+  <li>Summer 2019: Math 3150, Partial Differential Equation for Engineers <br> <a href="https://utah.instructure.com/courses/565918">https://utah.instructure.com/courses/565918</a> </li>
+  <li>Spring 2019: Math 1070, Introduction to Statistical Inference <br> <a href="https://utah.instructure.com/courses/542090">https://utah.instructure.com/courses/542090</a> </li>
+  <li>Fall 2018: Math 1070, Introduction to Statistical Inference <br> <a href="https://utah.instructure.com/courses/512433">https://utah.instructure.com/courses/512433</a> </li>
+  <li>Summer 2018: Math 3160, Applied Complex Variables <br> <a href="https://utah.instructure.com/courses/500364">https://utah.instructure.com/courses/500364</a> </li>
+  <li>Fall 2017: Math 1090, Business Algebra <br> <a href="https://utah.instructure.com/courses/463251">https://utah.instructure.com/courses/463251</a> </li>
+  <li>Summer 2017: Math 3160, Applied Complex Variables <br> <a href="https://utah.instructure.com/courses/435905">https://utah.instructure.com/courses/435905</a> </li>
+  <li>Spring 2017: Math 1060, Trigonometry <br> <a href="https://utah.instructure.com/courses/425754">https://utah.instructure.com/courses/425754</a> </li>
+  <li>Fall 2016: Math 1090, Business Algebra <br> <a href="https://utah.instructure.com/courses/463251">https://utah.instructure.com/courses/463251</a> </li>
+  <li>Spring 2016: Math 1090, Business Algebra <br> <a href="https://utah.instructure.com/courses/364718">https://utah.instructure.com/courses/364718</a> </li>
 </ul>

@@ -74,7 +74,7 @@ Research Interests:
   <li>statistics</li>
   <li>numerical methods for PDEs</li>
   <li>mathematical modeling</li>
-  <li>nonlocal operators</li>
+  <li>nonlocal PDEs</li>
 </ul>
 
 # {{% staticref "files/HDinhCV.pdf" %}}<u>curriculum vitae</u>{{% /staticref %}}

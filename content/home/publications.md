@@ -28,6 +28,8 @@ subtitle = ""
 
 +++
 
+Submitted
 <ul>
-<li> H. Dinh, H. Antil, Y. Chen, E. Cherkaev, and A. Narayan., Model reduction for fractional elliptic problems using Kato's formula, SUBMITTED. (2019) <i><a href="https://arxiv.org/abs/1904.09332">arXiv preprint arXiv:1904.09332</a></i>.
+<li> H. Dinh, H. Antil, Y. Chen, E. Cherkaev, and A. Narayan. "Model reduction for fractional elliptic problems using Kato's formula." <i> IMA Journal of Numerical Analysis</i> (2019) <i><a href="https://arxiv.org/abs/1904.09332">arXiv preprint arXiv:1904.09332</a></i>.
+<li> H. Dinh, D. Jimenez, M. Papadakis, F. Laezza, D. Labate. "Automated quantitative analysis of confocal images of neuronal network cultures." <i>The 2013 International Symposium on Biomedical Imaging: From Nano to Macro, San Franciso, CA, USA, 8-11, 2013</i> (2013) <i><a href="https://pdfs.semanticscholar.org/0a0c/0247a824c6dd5bb2d797ed6e073f9737b0fe.pdf">preprint</a></i>.
 </ul>
