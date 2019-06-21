@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/post/</loc>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
