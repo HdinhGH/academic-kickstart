@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Huy Dinh</title>
-    <link>http://math.utah.edu/~hdinh/</link>
-    <description>Recent content on Huy Dinh</description>
+    <title>Overview on Huy Dinh</title>
+    <link>http://math.utah.edu/~hdinh/projects/project2/example/</link>
+    <description>Recent content in Overview on Huy Dinh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://math.utah.edu/~hdinh/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://math.utah.edu/~hdinh/projects/project2/example/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>http://math.utah.edu/~hdinh/projects/project1/example/example1/</link>
+      <link>http://math.utah.edu/~hdinh/projects/project2/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://math.utah.edu/~hdinh/projects/project1/example/example1/</guid>
+      <guid>http://math.utah.edu/~hdinh/projects/project2/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>http://math.utah.edu/~hdinh/projects/project1/example/example2/</link>
+      <link>http://math.utah.edu/~hdinh/projects/project2/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://math.utah.edu/~hdinh/projects/project1/example/example2/</guid>
+      <guid>http://math.utah.edu/~hdinh/projects/project2/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;

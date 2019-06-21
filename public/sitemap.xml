@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://math.utah.edu/~hdinh/projects/project1/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/projects/project1/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/projects/project1/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://math.utah.edu/~hdinh/authors/admin/</loc>
   </url>
   
@@ -17,12 +38,16 @@
   </url>
   
   <url>
-    <loc>http://math.utah.edu/~hdinh/</loc>
-    <priority>0</priority>
+    <loc>http://math.utah.edu/~hdinh/projects/project1/</loc>
   </url>
   
   <url>
     <loc>http://math.utah.edu/~hdinh/post/</loc>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/projects/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
