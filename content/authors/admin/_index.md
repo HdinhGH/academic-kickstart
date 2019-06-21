@@ -70,11 +70,11 @@ social:
 
 Research Interests: 
 <ul style="list-style-type:disc;">
-  <li>climate modeling</li>
-  <li>statistics</li>
-  <li>numerical methods for PDEs</li>
-  <li>mathematical modeling</li>
-  <li>nonlocal PDEs</li>
+  <li>Climate Modeling</li>
+  <li>Statistics</li>
+  <li>Numerical Methods for PDEs</li>
+  <li>Mathematical Modeling</li>
+  <li>Nonlocal PDEs</li>
 </ul>
 
 # {{% staticref "files/HDinhCV.pdf" %}}<u>curriculum vitae</u>{{% /staticref %}}
