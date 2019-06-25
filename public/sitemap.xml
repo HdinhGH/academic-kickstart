@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://math.utah.edu/~hdinh/tags/deep-learning/</loc>
+    <lastmod>2019-06-23T14:31:40-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/tags/demo/</loc>
+    <lastmod>2019-06-23T14:31:40-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/</loc>
+    <lastmod>2019-06-23T14:31:40-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/project/</loc>
+    <lastmod>2019-06-23T14:31:40-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/tags/</loc>
+    <lastmod>2019-06-23T14:31:40-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://math.utah.edu/~hdinh/project/test_project/</loc>
+    <lastmod>2019-06-23T14:31:40-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://math.utah.edu/~hdinh/authors/admin/</loc>
   </url>
   
@@ -13,11 +48,6 @@
   
   <url>
     <loc>http://math.utah.edu/~hdinh/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://math.utah.edu/~hdinh/</loc>
     <priority>0</priority>
   </url>
   
@@ -36,11 +66,6 @@
   
   <url>
     <loc>http://math.utah.edu/~hdinh/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>http://math.utah.edu/~hdinh/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
