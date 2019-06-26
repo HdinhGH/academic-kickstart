@@ -29,7 +29,7 @@ subtitle = ""
 +++
 
 <ul>
-<li> H. Dinh, K. M. Golden, E. Cherkaev and C. Strong. Floe scale model of anomalous diffusion in sea ice dynamics. (In preparation, 2019)</i>.
-<li> H. Dinh, H. Antil, Y. Chen, E. Cherkaev, and A. Narayan. Model reduction for fractional elliptic problems using Kato's formula. <i> IMA Journal of Numerical Analysis</i> (Submitted, 2019) <i><a href="https://arxiv.org/abs/1904.09332">arXiv preprint arXiv:1904.09332</a></i>.
+<li> H. Dinh, E. Cherkaev, C. Strong and K. M. Golden, Floe scale model of anomalous diffusion in sea ice dynamics, in preparation, 2019.</i>.
+<li> H. Dinh, H. Antil, Y. Chen, E. Cherkaev, and A. Narayan, Model reduction for fractional elliptic problems using Kato's formula, <i> IMA Journal of Numerical Analysis</i>, submitted, 2019, <i><a href="https://arxiv.org/abs/1904.09332">arXiv preprint arXiv:1904.09332</a></i>.
 <!-- <li> H. Dinh, D. Jimenez, M. Papadakis, F. Laezza, D. Labate. "Automated quantitative analysis of confocal images of neuronal network cultures." <i>The 2013 International Symposium on Biomedical Imaging: From Nano to Macro, San Franciso, CA, USA, 8-11, 2013</i> (2013) <i><a href="https://pdfs.semanticscholar.org/0a0c/0247a824c6dd5bb2d797ed6e073f9737b0fe.pdf">preprint</a></i>. -->
 </ul>
