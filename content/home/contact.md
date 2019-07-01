@@ -34,4 +34,6 @@ Salt Lake City, UT 84112-0090 </br>
 
 email: hdinh@math.utah.edu </br>
 office: JWB 121 </br>
-office phone number: 801-581-7653
+office phone number: 801-581-7653</br>
+
+<a href="https://map.utah.edu/?buildingnumber=9">Office Location on UU Campus Map</a> 
